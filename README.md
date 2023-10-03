@@ -22,4 +22,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - LinkedIn - [Luis Eduardo](https://www.linkedin.com/in/luís-eduardo/){:target="_blank"}
-- Frontend Mentor - [@luissilva629](https://www.frontendmentor.io/profile/luissilva629){:target="_blank"}
+- Frontend Mentor - [@luissilva629](https://www.frontendmentor.io/profile/luissilva629){:target="_blank" rel="noopener"}
