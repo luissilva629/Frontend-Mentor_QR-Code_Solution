@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Solution Netlify](https://main--bright-fudge-0bd80e.netlify.app)
+- Live Site URL: [Solution Github Pages](https://luissilva629.github.io/Frontend-Mentor_QR-Code_Solution/)
 
 ## Author
 
