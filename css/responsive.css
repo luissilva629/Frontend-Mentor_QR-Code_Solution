@@ -1,0 +1,17 @@
+@media (max-width: 375px) {
+  .content-area {
+    max-width: 34rem;
+  }
+
+  .content-area .qr-code img {
+    height: 28rem;
+  }
+
+  .content-area .qr-code h1 {
+    font-size: 2.4rem;
+  }
+
+  .content-area .qr-code p {
+    font-size: 1.8rem;
+  }
+}
