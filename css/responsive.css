@@ -15,3 +15,25 @@
     font-size: 1.8rem;
   }
 }
+
+@media (max-width: 300px) {
+  .content-area {
+    max-width: 25rem;
+  }
+
+  .content-area .qr-code img {
+    height: 20rem;
+  }
+
+  .content-area .qr-code h1 {
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+  }
+  .content-area .qr-code p {
+    font-size: 1.3rem;
+  }
+  .container .attribution,
+  .container .attribution a {
+    font-size: 1rem;
+  }
+}
